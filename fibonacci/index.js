@@ -17,7 +17,7 @@ const  recursiveFobonacci = (n) =>{
             if(n<2){
                 return n;
             }
-                              1                                             
+                                                                   
             return recursiveFobonacci(n-1) +  recursiveFobonacci(n-2)
 
 }
